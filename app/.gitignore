@@ -1,0 +1,5 @@
+/build
+*.apk
+*.ap_
+*.dex
+*.class
